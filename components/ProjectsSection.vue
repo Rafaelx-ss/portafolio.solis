@@ -10,17 +10,18 @@
     <div class="space-y-8">
       <div class="group bg-white/5 rounded-xl p-6 hover:bg-white/10 transition-colors">
         <div class="flex items-center gap-4 mb-4">
-          <div class="flex -space-x-2">
+          <div class="flex -space-x-1">
             <img src="/nextjs.svg" alt="Next.js" class="w-8 h-8 rounded-full bg-white/10 p-1">
             <img src="/tailwind.svg" alt="Tailwind CSS" class="w-8 h-8 rounded-full bg-white/10 p-1">
+            <img src="/typescript.svg" alt="TypeScript" class="w-8 h-8 rounded-full bg-white/10 p-1">
           </div>
           <div class="flex-1">
-            <h3 class="text-lg font-semibold">KKKKKKKKKKKK</h3>
-            <p class="text-sm text-gray-400">KKKKKKKKKKKKKKKKKKKKKKKK</p>
+            <h3 class="text-lg font-semibold">Take It!</h3>
+            <p class="text-sm text-gray-400">Plataforma de gestión de eventos deportivos y recreativos</p>
           </div>
         </div>
         <p class="text-gray-300 mb-4">
-          KKKKKKKKKKKK Creado desde cero con Next.js, React y Tailwind CSS.
+          Desarrollo de una aplicación que permite la creación, promoción e inscripción de eventos en diversas áreas como deportes, música y videojuegos. La plataforma facilita la gestión completa de los eventos, incluyendo módulos para inscripción de participantes, seguimiento en tiempo real y difusión de resultados. Con un enfoque en la accesibilidad y conectividad, Take It! optimiza la organización de eventos y potencia la interacción entre los usuarios y los organizadores.
         </p>
         <div class="flex gap-4">
           <a href="#" class="text-sm text-gray-400 hover:text-white flex items-center gap-2">

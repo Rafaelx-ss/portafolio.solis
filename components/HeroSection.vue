@@ -19,7 +19,7 @@
       Rafael
     </h1>
     <p class="text-xl text-gray-400 mb-12 max-w-2xl mx-auto leading-relaxed">
-      <Ty>Ingeniero de Software Multiplataforma</Ty> con <Ty>+2 años</Ty> de <Ty>experiencia</Ty>
+      <Ty>Desarrollador de Software Multiplataforma</Ty> con <Ty>+2 años</Ty> de <Ty>experiencia</Ty>
       <br>Soy de Mérida, Yucatán, México. 🇲🇽
       <br>Especializado en <Ty>Frontend</Ty> y <Ty>Backend</Ty> con <Ty>JavaScript</Ty> y <Ty>PHP</Ty>.
     </p>

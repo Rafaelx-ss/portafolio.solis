@@ -23,26 +23,18 @@
             <p class="text-gray-400">Migración de plataforma</p>
             <p class="text-sm text-gray-500 mb-4">Actualmente...</p>
             <p class="text-gray-300 leading-relaxed">
-              Encargado de la migración de Excelsfort a una solución moderna con React, Vite y Azure en el backend para Grupo Modelo. 
+              Encargado de la migración de Excelsfort a una solución moderna con React, Vite y Azure en el backend para Grupo Modelo.
               <br>Desarrollo de módulos para la planificación y gestión de visitas a establecimientos a nivel nacional en México, con funciones de administración de rutas, perfiles de usuario y carga de datos para un control eficiente en toda la plataforma.
-              <p class="text-sm text-gray-500 mb-4 mt-2">El codigo e interfaz es privado, politica del cliente...</p>
             </p>
+            <p class="text-sm text-gray-500 mb-4 mt-2">El código y la interfaz son privados, política del cliente...</p>
               <div class="flex gap-2 mt-4">
-                <Badge src="/vitejs.svg" alt="React">
-                  Vite
-                </Badge>
-                <Badge src="/react.svg" alt="React">
-                  React
-                </Badge>
-                <Badge src="/typeScript.svg" alt="React">
-                  TypeScript
-                </Badge>
-                <Badge src="/tailwind.svg" alt="React">
-                  Tailwind CSS
-                </Badge>
-                <Badge src="/azure.svg" alt="React">
-                  Azure
-                </Badge>
+                <Badge src="/vitejs.svg" alt="React" text="Vite" />
+                <Badge src="/react.svg" alt="React" text="React" />
+                <Badge src="/typeScript.svg" alt="React" text="TypeScript" /> 
+                <Badge src="/tailwind.svg" alt="React" text="Tailwind CSS" />
+                <Badge src="/azure.svg" alt="React" text="Azure" />
+                <Badge src="/postgresql.svg" alt="PostgreSQL" text="PostgreSQL" />
+
               </div>
           </div>
         </div>
@@ -59,30 +51,21 @@
             <p class="text-gray-400">Software de gestión para estaciones de servicio</p>
             <p class="text-sm text-gray-500 mb-4">Junio - Noviembre 2024</p>
             <p class="text-gray-300 leading-relaxed">
-              Desarrollo de una plataforma integral de gestión de gasolineras utilizando PHP y Yii2. Implementación de módulos para administración de usuarios, productos, servicios y carga de archivos, optimizando la eficiencia operativa. 
-              Gestión avanzada de búsquedas y validaciones para una experiencia de usuario mejorada y control preciso en cada aspecto de la operación.
+              Desarrollo de una plataforma integral de gestión de gasolineras utilizando PHP y Yii2. 
+              Implementación de módulos para la administración de usuarios, productos, servicios y carga de archivos, optimizando la eficiencia operativa. 
+              Gestión avanzada de búsquedas y validaciones para una experiencia de usuario mejorada y un control preciso en cada aspecto de la operación.
             </p>
-            <p class="text-sm text-gray-500 mt-2 mb-4 ">El codigo e interfaz es privado, politica del cliente...</p>
+            <p class="text-sm text-gray-500 mb-4 mt-2">El código y la interfaz son privados, política del cliente...</p>
             <div class="flex gap-2 mt-4">
-                <Badge src="/php_dark.svg" alt="React">
-                  PHP
-                </Badge>
-                <Badge src="/react.svg" alt="React">
-                  React
-                </Badge>
-                <Badge src="/typeScript.svg" alt="React">
-                  TypeScript
-                </Badge>
-                <Badge src="/tailwind.svg" alt="React">
-                  Tailwind CSS
-                </Badge>
-                <Badge src="/azure.svg" alt="React">
-                  Azure
-                </Badge>
-              </div>
+              <Badge src="/php_dark.svg" alt="React" text="PHP" />
+              <Badge src="/yii2.svg" alt="Yii2" text="Yii2" />
+              <Badge src="/bootstrap.svg" alt="Bootstrap" text="Bootstrap" /> 
+              <Badge src="/mysql.svg" alt="MySQL" text="MySQL" />
+            </div>
           </div>
         </div>
       </div>
+      
     </div>
   </section>
 </template>

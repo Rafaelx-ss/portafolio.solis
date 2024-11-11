@@ -9,19 +9,17 @@
     <div class="flex gap-8">
       <div class="flex-1">
         <p class="text-gray-300 mb-6">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati laudantium adipisci necessitatibus et, iure quidem quod accusantium rerum natus veritatis atque, sit, facilis reprehenderit aliquam porro fuga id tempora. Nulla?
+          Me llamo Mario Rafael Solís Suárez. Actualmente estudio Ingeniería en Desarrollo de Software. Me apasionan la programación y el diseño web, y disfruto aprender cosas nuevas y compartir mis conocimientos con los demás.
         </p>
         <p class="text-gray-300 mb-6">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati laudantium adipisci necessitatibus et, iure quidem quod accusantium rerum natus veritatis atque, sit, facilis reprehenderit aliquam porro fuga id tempora. Nulla?
-
+          Tengo 22 años y soy de Mérida, Yucatán, México 🇲🇽. Por suerte, simpatizo muy bien con las personas, y estoy dispuesto a ayudar a quien lo necesite. También soy abierto a opiniones y consejos.
         </p>
         <p class="text-gray-300">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati laudantium adipisci necessitatibus et, iure quidem quod accusantium rerum natus veritatis atque, sit, facilis reprehenderit aliquam porro fuga id tempora. Nulla?
-
+          Obviamente, no soy un gato, pero esta es mi consentida: se llama Lyra. Es una gata muy cariñosa y juguetona, le encanta dormir y comer. Es muy tranquila y prefiere estar en lugares altos.
         </p>
       </div>
       <div class="w-72">
-        <img src="/avatar.webp" alt="midudev" class="w-full rounded-2xl">
+        <img src="/avatar.webp" alt="rafaek" class="w-full rounded-2xl">
       </div>
     </div>
   </section>

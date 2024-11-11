@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen bg-gradient-to-b from-dark to-dark-lighter text-white selection:bg-yellow-400/20">
     <TheHeader id="header" className="header-class" />
-    <main class="max-w-2xl mx-auto px-4">
+    <main class="max-w-3xl mx-auto px-4">
       <HeroSection />
       <ExperienceSection />
       <ProjectsSection />
